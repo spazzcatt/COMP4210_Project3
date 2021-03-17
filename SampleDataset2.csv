@@ -1,0 +1,51 @@
+﻿Start,End,Color,Diameter,Location
+1,8,Green,40,San Antonio
+8,12,Black,28,Billings
+12,15,Orange,40,Norfolk
+15,24,Orange,28,Houston
+24,25,Red,40,Daytona
+25,27,Orange,40,New Orleans
+27,32,Black,40,New Orleans
+32,37,Black,9,Milwaukee
+37,38,Yellow,10,Seattle
+38,43,Yellow,28,Reno
+43,48,Orange,24,Reno
+48,56,Black,40,San Antonio
+56,64,Red,24,Reno
+64,69,Yellow,6,Reno
+69,78,Red,24,Seattle
+78,80,Red,9,Houston
+80,87,Green,9,Memphis
+87,92,Red,6,Milwaukee
+92,96,Black,9,Houston
+96,101,Orange,24,Daytona
+101,109,Green,40,Gettysburg
+109,110,Blue,10,Norfolk
+110,118,Green,28,Daytona
+118,122,Blue,28,Houston
+122,130,Green,28,Norfolk
+130,138,Black,9,Seattle
+138,141,Yellow,10,Seattle
+141,151,Green,9,Reno
+151,156,Blue,28,Seattle
+156,165,Yellow,10,Gettysburg
+165,171,Orange,28,New Orleans
+171,172,Blue,10,Norfolk
+172,177,Red,28,New Orleans
+177,183,Green,24,New Orleans
+183,193,Green,28,Daytona
+193,198,Black,10,Seattle
+198,204,Orange,24,Norfolk
+204,210,Green,10,Seattle
+210,218,Orange,10,Chicago
+218,226,Black,28,San Antonio
+226,229,Yellow,10,Norfolk
+229,232,Blue,6,Houston
+232,239,Green,40,New Orleans
+239,243,Black,40,Houston
+243,248,Green,10,Norfolk
+248,254,Red,40,Chicago
+254,256,Red,6,Norfolk
+256,261,Yellow,24,Reno
+261,271,Green,6,New Orleans
+271,275,Green,24,Reno
